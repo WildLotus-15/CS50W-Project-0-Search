@@ -1,0 +1,54 @@
+img {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 70px;
+    height: 25px;
+}
+
+h2 {
+    padding-top: 10px;
+    color: #dd1919;
+    font-size: 23px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    margin-right: 20px;
+    font-weight: normal;
+    width: 1300px;
+}
+
+h5 {
+    margin: 0px 20px;
+    padding-top: 20px;
+    font-weight: normal;
+}
+
+.form {
+    margin: 20px
+}
+
+.title {
+    float: left;
+    font-size: 16px;
+    padding-right: 10px;
+    width: 200px;
+}
+
+input {
+    width: 500px;
+}
+
+a:link {
+    font-size: 15px;
+    margin: 0px 5px
+}
+a:hover {
+    text-decoration: underline;
+    margin: 0px 5px
+}
+
+input[type="submit"] {
+    margin-left: 570px;
+    width: 150px;
+}

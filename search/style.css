@@ -1,0 +1,44 @@
+svg {
+    color: rgb(143, 136, 136);
+}
+
+
+input[type="text"] {
+    width: 580px;
+    height: 45px;
+    margin-top: 5px;
+    margin-bottom: 23px;
+    border-radius: 25px;
+    border: 1px solid #d0cfcf;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+img {
+    margin-top: 20px;
+    width: 270px;
+    height: 90px;
+    margin-bottom: 5px;
+}
+input[type="submit"] {
+    border: 0.1px solid white;
+    border-radius: 4px;
+    color: #5f6368;
+    font-size: 15px;
+    margin: 5px 1px;
+    line-height: 27px;
+    padding: 0 16px;
+    height: 36px;
+    background-color: #f2f2f2;
+    text-align: center;
+    cursor: pointer;
+}
+
+a:link {
+    font-size: 15px;
+    margin: 0px 5px
+}
+a:hover {
+    text-decoration: underline;
+    margin: 0px 5px
+}
